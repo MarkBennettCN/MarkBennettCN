@@ -16,7 +16,7 @@ Staff Platform Engineer focused on eliminating bottlenecks, reducing single poin
 
 **Cloud & Infrastructure:** AWS, GCP, Kubernetes, Terraform, Docker  
 **Automation & DevOps:** GitHub Actions, Bash, GitOps, CI/CD  
-**Development:** Python, Golang
+**Development:** Python, Golang  
 **Security:** All of it, all the time, all at once
 
 ## 🤝 Community
